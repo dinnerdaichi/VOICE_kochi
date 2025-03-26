@@ -51,9 +51,10 @@
             <div class="visual visual-pc"><img src="https://ko-ken-k3.ac.jp/wp-content/uploads/2024/09/fv03-scaled.jpg" alt="" /></div>
             <div class="visual visual-sp"><img src="https://ko-ken-k3.ac.jp/wp-content/uploads/2024/09/fv03sp.jpg" alt="" /></div>
           </a>
-          <a href="https://ko-ken-k3.ac.jp/concept/">
+          <a href="https://ko-ken-k3.voicelab.info/oc202403/">
             <div class="visual visual-pc"><img src="https://ko-ken-k3.voicelab.info/wp-content/uploads/2025/03/top-oc.jpg" alt="" /></div>
             <div class="visual visual-sp"><img src="https://ko-ken-k3.ac.jp/wp-content/uploads/2024/09/fv03sp.jpg" alt="" /></div>
+            <!-- <div class="visual visual-sp"><img src="https://ko-ken-k3.voicelab.info/wp-content/uploads/2025/03/top-oc-sp.jpg" alt="" /></div> -->
           </a>
 
 

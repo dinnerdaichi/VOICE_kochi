@@ -98,7 +98,7 @@
             </div>
 -->
             <div class="ocbtn">
-              <a class="" href="/oc202403" target="_blank"><img class="pc" src="<?php echo site_url();?>/img/common/btn_oc202503.png" alt="OPEN CAMPUS"><img class="sp" src="<?php echo site_url();?>/img/common/btn_oc202503-sp.png" alt="OPEN CAMPUS"></a>
+              <a class="" href="/oc202403" target="_blank"><img class="pc" src="<?php echo site_url();?>/img/common/btn_oc202503.png" alt="OPEN CAMPUS"><img class="sp" src="<?php echo site_url();?>/img/common/btn_oc202503.png" alt="OPEN CAMPUS"></a>
             </div>
             <div class="gmenu">
               <div class="openbtn">
@@ -255,10 +255,16 @@
     </div>
 	<?php else: ?>
     <div id="fix_bnr" class="fix_bnr">
+
       <a href="/jukensei/" target="_blank">
-        <img class="pc" src="/img/home/banner-jukensei202406.jpg">
-        <img class="tab" src="/img/home/banner-jukensei202406-tab.jpg">
-        <img class="sp" src="/img/home/banner-jukensei202406-sp.jpg">
+        <img src="/img/home/banner-oc202503.png">
+        <!-- <img class="pc" src="/img/home/banner-jukensei202503.png">
+        <img class="sp" src="/img/home/banner-jukensei202503.png"> -->
+      </a>
+      <a href="/jukensei/" target="_blank">
+        <img src="/img/home/banner-jukensei202503.png">
+        <!-- <img class="pc" src="/img/home/banner-jukensei202503.png">
+        <img class="sp" src="/img/home/banner-jukensei202503.png"> -->
       </a>
     </div>
 	<?php endif; ?>
